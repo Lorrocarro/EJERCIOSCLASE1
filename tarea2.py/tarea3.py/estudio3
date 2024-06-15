@@ -1,0 +1,9 @@
+ImpuestoRenta = float(input("Ingrese ImpuestoRenta"))
+print("printImpuestoRenta")
+if ImpuestoRenta< 30:
+    print ("Impues de Renta")
+elif 1000000 <= 70000:
+    print("ImpuestoRenta 30:")
+else:
+    print("Impuesto de Renta >=1000000<= 70000")
+    
